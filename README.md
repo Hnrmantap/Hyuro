@@ -1,2 +1,1 @@
-# Hyuro
-SCRIPT BOT WA
+
